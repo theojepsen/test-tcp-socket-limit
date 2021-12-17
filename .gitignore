@@ -1,3 +1,7 @@
+# Targets
+client
+server
+
 # Prerequisites
 *.d
 
